@@ -11,3 +11,5 @@
 
 ## Productivity
 - Useful Impress Templates: https://dohliam.github.io/libreoffice-impress-templates/
+- How to import templates: https://superuser.com/questions/1262976/how-can-i-import-libreoffice-impress-templates
+- 
