@@ -8,6 +8,8 @@
 
 ## Markdown Editing
 - Typora: https://typora.io/
+- Creating links in Markdown: https://anvilproject.org/guides/content/creating-links
+
 
 ## Productivity
 - Useful Impress Templates: https://dohliam.github.io/libreoffice-impress-templates/
